@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07-SimonSays", "Ex07-SimonSays\Ex07-SimonSays.csproj", "{86D6C47F-C1D9-45BF-B7BC-0C60EF0C43C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonTest", "SimonTest\SimonTest.csproj", "{B1AFDABA-89CE-48F3-963D-9672AB16EBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D6C47F-C1D9-45BF-B7BC-0C60EF0C43C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D6C47F-C1D9-45BF-B7BC-0C60EF0C43C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D6C47F-C1D9-45BF-B7BC-0C60EF0C43C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D6C47F-C1D9-45BF-B7BC-0C60EF0C43C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AFDABA-89CE-48F3-963D-9672AB16EBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AFDABA-89CE-48F3-963D-9672AB16EBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AFDABA-89CE-48F3-963D-9672AB16EBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AFDABA-89CE-48F3-963D-9672AB16EBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98196E1B-60FD-4763-A588-0E841E751C91}
+	EndGlobalSection
+EndGlobal
